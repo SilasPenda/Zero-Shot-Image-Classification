@@ -1,0 +1,6 @@
+CLASSES = (
+        'ambulance', 'antenna','bat_(animal)','bicycle', 'visor','billboard', 'bird','bulldozer',
+        'bullet_train', 'bus_(vehicle)', 'cab_(taxi)', 'cabin_car','camper_(vehicle)','canoe', 'car_(automobile)',
+        'convertible_(automobile)', 'shipping_container', 'boat', 'motor_(vehicle)', 'truck',
+        'cargo_ship','tractor_(farm_equipment)', 'traffic_light', 'sand', 'sea_(water)'
+        'dirt_bike', 'trailer_truck', 'train_(railroad_vehicle)', 'yacht', 'trees')
