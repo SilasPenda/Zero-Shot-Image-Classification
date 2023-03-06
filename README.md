@@ -1,5 +1,10 @@
 # Zero-Shot-Image-Classification
 
+## Outputs
+<p align="center"><img src="helpers/8.png" width="640"\></p>
+<p align="center"><img src="helpers/aerial.png" width="640"\></p>
+
+## Guide
 Clone this repo
 
 cd into cloned repo
