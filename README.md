@@ -14,7 +14,7 @@ python -m venv zero-shot
 Activate Virtual environment
 
 ```
- zero-shot/source/activate
+ ./zero-shot/source/activate
 ```
 
 Install requirements
